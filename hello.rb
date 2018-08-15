@@ -1,1 +1,3 @@
-puts "Hello Git!"
+name = ARGV.first || "World"
+
+puts "Hello, #{name}!"
