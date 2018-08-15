@@ -1,0 +1,3 @@
+# Don't push secrets to GitHub!
+secrets.rb
+secret-folder
